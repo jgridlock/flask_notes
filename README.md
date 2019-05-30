@@ -6,10 +6,10 @@ Create a project folder and cd into it.
 Create a virtual env by running `python -m venv venv`  
 From inside your project folder run venv\Scripts\activate to start the virtual environment. This has to be done from cmd prompt.  
 
-Folder structure
-project/
-    venv/
-    app/
-        __init__.py
-        routes.py
-    projectname.py
+Folder structure  
+project/  
+    venv/  
+    app/  
+        __init__.py  
+        routes.py  
+    projectname.py  
